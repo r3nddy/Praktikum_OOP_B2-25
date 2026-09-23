@@ -16,7 +16,7 @@ Konsep OOP yang diterapkan:
 ## 1. Struktur Folder
 
 ```text
-pt1-pbo/
+post-test-pbo-1/
 ├── main.py
 ├── README.md
 └── sistem_manajemen_hosting_server/
